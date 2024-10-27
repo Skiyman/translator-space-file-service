@@ -1,3 +1,9 @@
+.idea/
+.vscode
+CMakeFiles
+.gitignore
+cmake-build-debug
+
 # Prerequisites
 *.d
 
